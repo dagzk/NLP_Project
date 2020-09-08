@@ -6,5 +6,5 @@ What This Notebook Shows:
 
 - Web scraping book reviews on goodreads.com
 - Exploratory Data Analysis
-- Exploring Sentimental Analysis and Topic Modelling NLP techniques
+- Exploring Sentiment Analysis and Topic Modeling NLP techniques
 - Conclusion based on analysis
